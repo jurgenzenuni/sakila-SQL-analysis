@@ -11,6 +11,5 @@ This project involves analyzing the Sakila database to gain actionable insights 
 - Top-Performing Films: Identify the top 5 and bottom 5 movies based on rental revenue and assess their rental frequency.
 - Rental Trends: Analyze rental trends by genre, film rating (e.g., PG, R), and rental duration, and determine the 2 most rented films per store location.
 - Store Performance: Compare revenue and rental activity across stores to assess store-level performance and identify areas for improvement.
-- Staff Performance: Evaluate staff performance by determining the number of rentals processed by each staff member and calculating the average revenue generated per staff.
 - Customer Segmentation: Segment customers based on rental activity, spending habits, and location to understand customer preferences and prioritize marketing efforts.
 - Inventory Insights: Assess the inventory turnover by identifying underperforming genres or films that are rarely rented.
