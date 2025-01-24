@@ -2,7 +2,7 @@
 
 # Overview 
 
-This project involves analyzing the Sakila database to gain actionable insights into the movie rental business's performance and customer behavior. I wrote SQL queries to answer specific business questions and generate detailed reports, which were visualized using Tableau dashboards. Check out the Sakila Dashboard here:
+This project involves analyzing the Sakila database to gain actionable insights into the movie rental business's performance and customer behavior. I wrote SQL queries to answer specific business questions and generate detailed reports, which were visualized using Tableau dashboards. Check out the Sakila Dashboard here: https://public.tableau.com/app/profile/jurgen.zenuni6399/viz/sakila_17377590721650/SakilaDashboard
 
 # Objectives
 
